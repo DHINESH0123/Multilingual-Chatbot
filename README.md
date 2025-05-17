@@ -28,18 +28,20 @@ This project is an interactive multilingual chatbot built using **Streamlit**, *
 
 ## 📦 Installation
 
-1. **Clone the repository**
+1. **Clone the repository**:
+   
      git clone https://github.com/your-username/multilingual-chatbot.git
      cd multilingual-chatbot
 
-2. Create a virtual environment (optional but recommended)
+3. Create a virtual environment (optional but recommended):
+   
      python -m venv venv
      source venv/bin/activate  # or venv\Scripts\activate on Windows
 
-3.Install dependencies
+3.Install dependencies:
      pip install -r requirements.txt
 
-4.Run the app
+4.Run the app:
      streamlit run filename.py
 
 
